@@ -1,0 +1,2 @@
+china is a great country
+System.out.println("i love you");
